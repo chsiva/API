@@ -1,0 +1,33 @@
+Representational state transfer (REST) is a style of software architecture. As described in a dissertation by Roy Fielding, REST is an "architectural style" that basically exploits the existing technology and protocols of the Web.
+
+RESTful is typically used to refer to web services implementing such an architecture.
+
+REST based Services/Architecture vs. RESTFUL Services/Architecture
+To differentiate or compare these 2, you should know what REST is.
+
+REST (REpresentational State Transfer) is basically an architectural style of development having some principles:
+
+It should be stateless
+
+It should access all the resources from the server using only URI
+
+It does not have inbuilt encryption
+
+It does not have session
+
+It uses one and only one protocol - HTTP
+
+For performing CRUD operations, it should use HTTP verbs such as get, post, put and delete
+
+It should return the result only in the form of JSON or XML, atom, OData etc. (lightweight data )
+
+REST based services follow some of the above principles and not all
+
+RESTFUL services means it follows all the above principles.
+
+It is similar to the concept of:
+
+Object oriented languages support all the OOP concepts, examples: C++, C#
+
+Object-based languages support some of the OOP features, examples: JavaScript, VB
+
