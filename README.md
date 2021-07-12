@@ -18,6 +18,9 @@ An Application Programming Interface (API) is a tool set that programmers can us
    Create a REST API that is only accessible from within a VPC.
    Works with the following: Lambda, HTTP, AWS Services
    
+   
+   https://registry.terraform.io/modules/terraform-aws-modules/apigateway-v2/aws/latest
+   
 
 
 
