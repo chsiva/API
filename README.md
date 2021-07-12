@@ -25,6 +25,10 @@ An Application Programming Interface (API) is a tool set that programmers can us
    
    https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-private-apis.html#apigateway-private-api-create-using-aws-cli
    
+   
+   Cors_config
+   
+   https://registry.terraform.io/modules/mewa/apigateway-cors/aws/latest
 
 
 
