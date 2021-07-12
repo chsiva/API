@@ -21,6 +21,8 @@ An Application Programming Interface (API) is a tool set that programmers can us
    
    https://registry.terraform.io/modules/terraform-aws-modules/apigateway-v2/aws/latest
    
+   https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/apigatewayv2_api
+   
 
 
 
